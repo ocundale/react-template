@@ -41,6 +41,8 @@ See the console.log of this.props? This logs out the object:
 
 Routing- display certain components on certain pages
 
+[!6](/images/6.png)
+
 #### COMPILE ERRORS?
 * return more than one element?
 * className?
