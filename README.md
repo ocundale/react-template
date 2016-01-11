@@ -14,14 +14,14 @@ npm install modules
 
 ### Create initial component
 
-[!1](https://github.com/ocundale/react-template/blob/master/images/1.png)
+![1](https://github.com/ocundale/react-template/blob/master/images/1.png)
 
 * Add it to the page
 * Require react DOM:
     ReactDOM.render('<component />', document.getElementById('main') );
 
 Very easy to render javascript variables/objects
-[!2](https://github.com/ocundale/react-template/blob/master/images/2.png)
+![2](https://github.com/ocundale/react-template/blob/master/images/2.png)
 
 Add code to components, make app to hold these
 [!3](https://github.com/ocundale/react-template/blob/master/images/3.png)
