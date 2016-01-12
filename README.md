@@ -21,9 +21,11 @@ npm install modules
 
 
 Very easy to render javascript variables/objects
+
 ![2](https://github.com/ocundale/react-template/blob/master/images/2.png)
 
 Add code to components, make app to hold these
+
 ![3](https://github.com/ocundale/react-template/blob/master/images/3.png)
 
 Update the rendering statement to render App
