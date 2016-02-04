@@ -1,7 +1,7 @@
 # React Basic Setup
 
 ### Client-side package management:
-```npm install modules```
+```npm install```
 
 ### GULP:
 * Look at main.js to see gulp tasks, eg. rebundle on save etc
